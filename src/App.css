@@ -1,0 +1,9 @@
+.minesweeper {
+  max-width: 800px;
+  margin: 30px auto;
+}
+
+h1 {
+  font-size: 5em;
+  margin: 5px 0;
+}
