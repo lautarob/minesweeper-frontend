@@ -1,4 +1,4 @@
-![Minesweeper](minesweeper.png)
+![Minesweeper](minesweeper.jpeg)
 
 # Minesweeper Frontend
 
