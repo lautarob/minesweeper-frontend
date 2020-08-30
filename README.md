@@ -1,5 +1,9 @@
 ![Minesweeper](minesweeper.png)
 
+# Minesweeper Frontend
+
+Lives at https://minesweeperfrontend.herokuapp.com/
+
 ## First steps
 - Make sure you have Node and npm installed and just run: `npm install`
 - To start the server run `npm start`
@@ -17,3 +21,7 @@
 - The user uuid is stored in the local storage after the user is created at sign up.
 - If logout is clicked, then the uuid will be removed from the local storage.
 - Login feature (with an existing user) TODO
+
+## How to play
+- https://www.instructables.com/id/How-to-play-minesweeper/
+- To put a flag into an square we need to push **Ctrl** before clicking
